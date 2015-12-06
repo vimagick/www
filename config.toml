@@ -1,4 +1,4 @@
-baseurl = "https://vimagick.github.io/www/"
+baseurl = "http://www.foobar.site/"
 canonifyurls = true
 languageCode = "en-us"
 title = "My New Hugo Site"
@@ -6,7 +6,7 @@ theme = "hyde"
 
 [params]
 description = "hello world"
-copyright = "datageek™"
+copyright = "DataGeek™"
 
 [[menu.main]]
 name = "Youtube"
