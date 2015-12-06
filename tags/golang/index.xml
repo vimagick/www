@@ -2,19 +2,19 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Golang on My New Hugo Site</title>
-    <link>https://vimagick.github.io/www/tags/golang/</link>
+    <link>http://www.foobar.site/tags/golang/</link>
     <description>Recent content in Golang on My New Hugo Site</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Sun, 06 Dec 2015 11:58:37 +0800</lastBuildDate>
-    <atom:link href="https://vimagick.github.io/www/tags/golang/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://www.foobar.site/tags/golang/index.xml" rel="self" type="application/rss+xml" />
     
     <item>
       <title>About</title>
-      <link>https://vimagick.github.io/www/about/</link>
+      <link>http://www.foobar.site/about/</link>
       <pubDate>Sun, 06 Dec 2015 11:58:37 +0800</pubDate>
       
-      <guid>https://vimagick.github.io/www/about/</guid>
+      <guid>http://www.foobar.site/about/</guid>
       <description>
 
 &lt;h2 id=&#34;about-me:6083a88ee3411b0d17ce02d738f69d47&#34;&gt;About Me&lt;/h2&gt;
