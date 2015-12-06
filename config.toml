@@ -1,0 +1,8 @@
+baseurl = "http://vimagick.github.io/www/"
+languageCode = "en-us"
+title = "My New Hugo Site"
+theme = "hyde"
+
+[params]
+description = "hello world"
+copyright = "datageek™"
