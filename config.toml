@@ -1,4 +1,4 @@
-baseurl = "http://vimagick.github.io/www/"
+baseurl = "https://vimagick.github.io/www/"
 canonifyurls = true
 languageCode = "en-us"
 title = "My New Hugo Site"
